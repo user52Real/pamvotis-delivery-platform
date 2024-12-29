@@ -1,0 +1,49 @@
+{
+  "@@locale": "el",
+  "appTitle": "Διανομή Φαγητού",
+  "home": "Αρχική",
+  "orders": "Παραγγελίες",
+  "profile": "Προφίλ",
+  "searchHint": "Αναζήτηση εστιατορίων ή πιάτων",
+
+  "auth_login": "Σύνδεση",
+  "auth_register": "Εγγραφή",
+  "auth_email": "Email",
+  "auth_password": "Κωδικός",
+  "auth_confirmPassword": "Επιβεβαίωση Κωδικού",
+  "auth_forgotPassword": "Ξεχάσατε τον κωδικό;",
+  "auth_name": "Όνομα",
+  "auth_phoneNumber": "Τηλέφωνο",
+
+  "orderStatus_pending": "Σε εκκρεμότητα",
+  "orderStatus_confirmed": "Επιβεβαιώθηκε",
+  "orderStatus_preparing": "Σε προετοιμασία",
+  "orderStatus_onTheWay": "Καθ'οδόν",
+  "orderStatus_delivered": "Παραδόθηκε",
+
+  "cart_empty": "Το καλάθι σας είναι άδειο",
+  "cart_subtotal": "Μερικό σύνολο",
+  "cart_deliveryFee": "Έξοδα αποστολής",
+  "cart_total": "Σύνολο",
+  "cart_checkout": "Ολοκλήρωση παραγγελίας",
+  "cart_addToCart": "Προσθήκη στο καλάθι",
+
+  "reviews_title": "Κριτικές",
+  "reviews_writeReview": "Γράψτε μια κριτική",
+  "reviews_rating": "Βαθμολογία",
+  "reviews_comment": "Σχόλιο",
+  "reviews_submit": "Υποβολή",
+  "reviews_noReviews": "Δεν υπάρχουν κριτικές ακόμα",
+
+  "notifications_orderConfirmed": "Η παραγγελία σας επιβεβαιώθηκε",
+  "notifications_orderPreparing": "Η παραγγελία σας ετοιμάζεται",
+  "notifications_orderOnWay": "Η παραγγελία σας είναι καθ'οδόν",
+  "notifications_orderDelivered": "Η παραγγελία σας παραδόθηκε",
+  "notifications_newPromotion": "Νέα προσφορά διαθέσιμη!",
+
+  "errors_generalError": "Κάτι πήγε στραβά",
+  "errors_networkError": "Πρόβλημα σύνδεσης",
+  "errors_loginError": "Λάθος email ή κωδικός",
+  "errors_registrationError": "Η εγγραφή απέτυχε",
+  "errors_addressError": "Παρακαλώ εισάγετε έγκυρη διεύθυνση"
+}

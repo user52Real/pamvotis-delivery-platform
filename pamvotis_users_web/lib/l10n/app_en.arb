@@ -1,0 +1,49 @@
+{
+  "@@locale": "en",
+  "appTitle": "Food Delivery",
+  "home": "Home",
+  "orders": "Orders",
+  "profile": "Profile",
+  "searchHint": "Search for restaurants or dishes",
+
+  "auth_login": "Login",
+  "auth_register": "Register",
+  "auth_email": "Email",
+  "auth_password": "Password",
+  "auth_confirmPassword": "Confirm Password",
+  "auth_forgotPassword": "Forgot Password?",
+  "auth_name": "Name",
+  "auth_phoneNumber": "Phone Number",
+
+  "orderStatus_pending": "Pending",
+  "orderStatus_confirmed": "Confirmed",
+  "orderStatus_preparing": "Preparing",
+  "orderStatus_onTheWay": "On the way",
+  "orderStatus_delivered": "Delivered",
+
+  "cart_empty": "Your cart is empty",
+  "cart_subtotal": "Subtotal",
+  "cart_deliveryFee": "Delivery Fee",
+  "cart_total": "Total",
+  "cart_checkout": "Checkout",
+  "cart_addToCart": "Add to Cart",
+
+  "reviews_title": "Reviews",
+  "reviews_writeReview": "Write a Review",
+  "reviews_rating": "Rating",
+  "reviews_comment": "Comment",
+  "reviews_submit": "Submit",
+  "reviews_noReviews": "No reviews yet",
+
+  "notifications_orderConfirmed": "Your order has been confirmed",
+  "notifications_orderPreparing": "Your order is being prepared",
+  "notifications_orderOnWay": "Your order is on the way",
+  "notifications_orderDelivered": "Your order has been delivered",
+  "notifications_newPromotion": "New promotion available!",
+
+  "errors_generalError": "Something went wrong",
+  "errors_networkError": "Network error",
+  "errors_loginError": "Invalid email or password",
+  "errors_registrationError": "Registration failed",
+  "errors_addressError": "Please enter a valid address"
+}
